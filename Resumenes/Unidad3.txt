@@ -1,0 +1,4 @@
+resumen unidad 3: 
+Git y GitHub son herrmientas demasiado utiles hoy en dia, lo escalable que puede ser para trabajar en un ambiente colaborativo me sorprendio. 
+
+Gitbash fue lo que utilice para crear y subir mis repositorios a GitHub a traves de la linea de comandos, asi como tambien aprendi a crear ramas y subir contenido usando la misma linea de comandos, esto me gusto mucho ya que podemos trabajar sin afectar el master. 

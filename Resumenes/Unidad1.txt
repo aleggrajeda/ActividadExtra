@@ -1,0 +1,7 @@
+Resumen Unidad1:
+Codigo Binario y ASCII, si bien lo habia escuchado antes, fue hasta ahora que entendi sus funciones en el mundo y en las ciencias computacionales. 
+
+Algoritmos: secuencia de pasos logicas para lograr una accion. 
+
+Programacion: Existen diferentes programas para programar y resolver ciertas necesidades. podemos hacer alogoritmos a traves de codigo, de tal forma que la computadora lo entienda (a traves de la sintaxis del lenguage que estemos utilizando) y hacer que ese codigo ejecute determinada accion 
+

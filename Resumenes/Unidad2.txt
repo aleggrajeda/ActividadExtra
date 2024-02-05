@@ -1,0 +1,3 @@
+Resumen unidad 2
+
+Esta unidad me gusto mucho, ya que, si bien es basica, empezamos a tener contacto con cosas fundamentales de Javascript como tipos de datos y operadores, condicionales, estructuras de control de bucles, estructuras de control de flujo. 
